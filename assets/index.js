@@ -1,4 +1,4 @@
-const SLIDE_CHANGE_TIME = 3000;
+const SLIDE_CHANGE_TIME = 5000;
 const slider_inner = document.querySelector('.slider-inner');
 const slider_items = Array.from(slider_inner.children);
 const slider_nav = document.querySelector('.slider-nav');
